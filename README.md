@@ -1,2 +1,2 @@
 # Projects
-To track and showcase projects.
+To Track and Showcase Projects.
